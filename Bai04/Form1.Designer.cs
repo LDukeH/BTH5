@@ -228,6 +228,7 @@
             // 
             // mainText
             // 
+            mainText.BorderStyle = BorderStyle.FixedSingle;
             mainText.Dock = DockStyle.Fill;
             mainText.Location = new Point(0, 0);
             mainText.Name = "mainText";
